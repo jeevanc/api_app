@@ -1,0 +1,88 @@
+	{
+	"wards" : [
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 1",
+			"number" : "1",
+			"osmID" : "relation/7571506"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 2",
+			"number" : "2",
+			"osmID" : "relation/7571496"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 3",
+			"number" : "3",
+			"osmID" : "relation/7571486"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 4",
+			"number" : "4",
+			"osmID" : "relation/7571479"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 5",
+			"number" : "5",
+			"osmID" : "relation/7571508"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 6",
+			"number" : "6",
+			"osmID" : "relation/7571510"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 7",
+			"number" : "7",
+			"osmID" : "relation/7571480"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 8",
+			"number" : "8",
+			"osmID" : "relation/7571535"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 9",
+			"number" : "9",
+			"osmID" : "relation/7571531"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 10",
+			"number" : "10",
+			"osmID" : "relation/7571546"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 11",
+			"number" : "11",
+			"osmID" : "relation/7571553"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 12",
+			"number" : "12",
+			"osmID" : "relation/7571561"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 13",
+			"number" : "13",
+			"osmID" : "relation/7571563"
+
+		},
+		{
+			"name" : "Nilkantha Municipaloty Ward No. 14",
+			"number" : "14",
+			"osmID" : "relation/7571495"
+
+		}
+	]
+}
